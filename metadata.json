@@ -1,0 +1,8 @@
+{
+  "name": "English4everyone",
+  "description": "Plataforma de asesoría y prematrícula para estudiar inglés en el extranjero con mensajería en tiempo real con representantes de escuelas usando Firestore, cotizador multimonisa USD/PEN, y seguimiento de visados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
